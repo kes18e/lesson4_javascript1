@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 19, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Keanu E. Snow)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The assignment is to add code to a Calculator program, unifying all variables and calculations.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://kes18e.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Updating an existing program with addtional information and adhereing to the theme of code already established.
+2. Using specific methods within the language such as getElementById to reference webpage elements
+3. Defining an event handler within a coding project
 
 
 
